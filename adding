@@ -1,0 +1,15 @@
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a=50;
+		int b=20;
+		
+		System.out.println("multiplication value is "+(a*b));
+		System.out.println("division value is "+(a%b));
+
+
+	}
+
+}
