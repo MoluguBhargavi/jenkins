@@ -4,7 +4,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		int a=30;
-		int b=20;
+		int b=10;
 		
 		System.out.println("multiplication value is "+(a*b));
 		System.out.println("division value is "+(a%b));
